@@ -1,7 +1,7 @@
 # AFL++ for stateful systems
 
-AFL++ is a greybox fuzzer used to find vulnerabilities in software. 
-This repository contains a guide explaining how to use AFL++ on a simple stateless system and explain a way to use the tool to fuzz a stateful system.
+AFL++ is a **stateless** greybox fuzzer used to find vulnerabilities in software. 
+The repository explains how to use AFL++ in its classic way and provides hints to use it to fuzz a stateful system.
 
 
 
