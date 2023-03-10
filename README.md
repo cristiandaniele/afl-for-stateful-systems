@@ -15,7 +15,7 @@ The repository explains how to use AFL++ in its classic way and provides hints t
 │   │   └── <a href="code/input_stateful/seeds.txt">seeds.txt</a>
 │   ├── <a href="code/input_stateless">input_stateless</a>
 │   │   └── <a href="code/input_stateless/seed.txt">seed.txt</a>
-│   ├── <a href="code/stateful_system.cpp">stateful_system.cpp<$/a>
+│   ├── <a href="code/stateful_system.cpp">stateful_system.cpp</a>
 │   ├── <a href="code/stateless_system.cc">stateless_system.cc</a>
 │   ├── <a href="code/trace_mutator.c">trace_mutator.c</a>
 │   └── <a href="code/traces.txt">traces.txt</a>
